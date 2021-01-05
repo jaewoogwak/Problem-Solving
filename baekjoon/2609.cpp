@@ -1,7 +1,9 @@
 #include <iostream>
 #include <vector>
-
 using namespace std;
+
+// baekjoon 2609 : 최대공약수와 최소공배수
+// https://www.acmicpc.net/problem/2609
 
 int gcd(int a, int b) {
     // gcd(a,b) = gcd(b,a%b)

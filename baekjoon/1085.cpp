@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// baekjoon 1085 : 최대공약수와 최소공배수
+// https://www.acmicpc.net/problem/1085
+
 int main(void) {
     int x,y,w,h;
     
