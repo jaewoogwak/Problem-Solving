@@ -3,6 +3,9 @@
 #include <algorithm>
 using namespace std;
 
+// baekjoon 1037 : 약수
+// https://www.acmicpc.net/problem/1037
+
 int main(void) {
     int n; // 진짜 약수의 갯수
     int m=0;
