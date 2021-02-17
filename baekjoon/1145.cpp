@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// baekjoon 1145 : 적어도 대부분의 배수
+// https://www.acmicpc.net/problem/1145
+
 int main(void) {
     int arr[5];
     for(int i=0; i<5; i++) cin >> arr[i];
